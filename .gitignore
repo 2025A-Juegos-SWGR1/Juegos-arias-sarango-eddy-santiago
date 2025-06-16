@@ -1,0 +1,57 @@
+# Archivos generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de configuración del sistema
+sysinfo.txt
+
+# Archivos generados por VS/JetBrains
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Archivos de compilación
+*.pdb
+*.mdb
+*.opendb
+
+# Configuraciones de Rider
+.idea/
+
+# Crashlytics o similares
+crashlytics-build.properties
+
+# Archivos generados por build pipelines
+*.apk
+*.aab
+*.unitypackage
+
+# Ignorar paquetes descargados por el Package Manager
+Packages/packages-lock.json
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos personales
+*.swp
+*.bak
+*.tmp
+
+# Archivos de cache
+*.cache
